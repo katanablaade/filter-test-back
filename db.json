@@ -1,4 +1,4 @@
-[
+{
   {
     "id": 1,
     "logo": "ALGRUM",
@@ -83,4 +83,4 @@
     "products": ["GetScreen"],
     "partnerType": ["Интернет-провайдеры", "MSP Партнеры"]
   }
-]
+}
